@@ -1,0 +1,84 @@
+
+body{
+  background-color: #4B96D1;
+    text-align:center;
+
+    font-family: pacifico, Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+
+}
+h1{
+  text-align: center;
+  width:700px;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 24pt;
+    color: #EFF434;
+    font-family: annie use your telescope, sans-serif;
+      font-family: pacifica,annie use your telescope;
+}
+
+h2{
+  text-align: center;
+  width:700px;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 16pt;
+    color: #DC136C;
+    font-family: annie use your telescope, sans-serif;
+      font-family: pacifica,annie use your telescope;
+}
+em{
+  text-align: center;
+  padding:0px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+    font-size: 32pt;
+}
+img{
+
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3);
+}
+a{
+    font-family 12pt;
+    color:#9f2df7;
+}
+
+a:hover{
+    color:#84B082;
+}
+
+.name {
+	font-size:100px;
+	font-family: annie use your telescope, sans-serif;
+  color: #EA737C;
+  }
+
+
+
+  .gallery img {
+    height: 200px;
+    padding: 5px;
+    transition: 1s;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+html {   margin-left: 10%;
+  margin-right: 10%;
+  background: #6d092b;
+  font-family: 'Antic Slab', serif;
+  color: #ECE4B7;
+
+
+  background-image: url("assets/background.jpg");
+  background-repeat: round;
+  width: auto;
+}

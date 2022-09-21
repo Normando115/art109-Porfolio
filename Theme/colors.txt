@@ -1,0 +1,4 @@
+text color: #EFF434;
+name color: #DC136C;
+top nav color: #FF8B17;
+top nav active color: #84B082;
